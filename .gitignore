@@ -1,0 +1,7 @@
+#ignore bin folder
+*/*/*/bin/*
+
+# DS_Store files
+.DS_Store
+
+*.a
